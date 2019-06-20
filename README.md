@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # anime_template
 
 Practica de la interfaz de usuario del proyecto del curso de flutter de platzi, con template de anime.
@@ -17,4 +16,3 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 =======
 # anime_template
->>>>>>> c1dca619f41e0e7c076912a73a572026b818276a
